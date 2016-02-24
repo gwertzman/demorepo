@@ -9,3 +9,4 @@
 // sunny today in the valley
 // and in the city too
 // another nice day in SF
+// I'm now in palo alto
